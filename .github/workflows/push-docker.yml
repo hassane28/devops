@@ -32,4 +32,4 @@ jobs:
           context: .
           platforms: linux/amd64/v7
           push: true
-          tags: bdallard/python-ci:latest
+          tags: hassaneb/test:latest
